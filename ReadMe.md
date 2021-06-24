@@ -1,7 +1,7 @@
 ﻿# TestDeamonApp
 
 This is a console app demonstration how to aquire an access token from a Microsoft AzureAD B2C Tenant, and how to used it when calling a protected NVE API, 
-in this case the Regoba API.
+in this case the Regobs API.
 
 ## Prerequisites
 
